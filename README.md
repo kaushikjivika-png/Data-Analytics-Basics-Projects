@@ -20,7 +20,7 @@ These projects focus on applying core concepts using tools such as:
 - Python
 - Lists
 - Loops
-- Conditionals
+- Conditionals statements
 
   
 ## 🎯 Objective

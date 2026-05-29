@@ -12,30 +12,6 @@ These projects focus on applying core concepts using tools such as:
 - Seaborn
 
 ## 📂 Projects Included
-
-1. To-Do List CLI Application  
-   A task management system built using Python with features like adding, viewing, and deleting tasks.
-
-### Technologies Used:
-- Python
-- Lists
-- Loops
-- Conditionals statements
-
-2. Student Marks Analysis (NumPy Mini Project)
-
-   A CLI-based data analysis project built using Python and NumPy. 
-   This project analyzes student marks, calculates totals and averages, 
-   assigns grades, and identifies top-performing students.
-
-   ### Technologies Used:
-   - Python
-   - NumPy
-   - Arrays
-   - Conditional Statements
-   - Data Analysis Logic
-
-Features: Total calculation, average analysis, grade system, performance filtering.
   
 ## 🎯 Objective
 
